@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "baseUrl": "./src/",
+    "jsx": "react",
+    "lib": ["DOM", "ES2015"]
+  }
+}
